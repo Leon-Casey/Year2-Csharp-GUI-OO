@@ -1,2 +1,2 @@
 # Year2-Csharp-GUI-OO
-End of year project. Mostly OO based with a simple GUI
+Year 2 C# projects. Mostly OO based with simple GUIs.
